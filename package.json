@@ -1,6 +1,6 @@
 {
   "name": "xcodegen",
-  "version": "1.9.2",
+  "version": "1.10.3",
   "description": "XcodeGen binary installable via npm/esy",
   "bin": {
     "xcodegen": "./bin/xcodegen"
