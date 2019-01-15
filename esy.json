@@ -1,12 +1,11 @@
 {
   "name": "xcodegen",
-  "version": "1.10.3001",
+  "version": "2.1.0",
   "esy": {
     "build": [
       ["cp", "-r", "bin", "#{self.install}"],
       ["cp", "-r", "share", "#{self.install}"]
     ],
-    "install": [],
     "buildsInSource": true
   }
 }
